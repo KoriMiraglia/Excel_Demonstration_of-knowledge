@@ -1,0 +1,2 @@
+# Excel_Demonstration_of-knowledge
+Within this project for Lariat Rent-A-Car, a fictitious company, several advanced Excel skills are demonstrated. Including: Examined and cleaned historical sales data using Excel (XLookUp, pivot tables, scenario manager, data models, and t-tests).  • Completed exploratory data analysis to identify strategic scenarios to increase revenue, assessed by KPI performance. * Presented models that showcased various strategies for increasing profits while lowering or maintaining operational costs.
